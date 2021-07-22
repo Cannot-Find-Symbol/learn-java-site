@@ -49,7 +49,11 @@ export default {
         chapters: [
           {
             title: 'Getting Started',
-            to: '/getting-started/markdown.md'
+            to: '/getting-started.md'
+          },
+          {
+            title: 'Chapter 1',
+            to: '/chapter-1.md'
           }
         ]
       }
